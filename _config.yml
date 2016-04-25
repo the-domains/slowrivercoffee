@@ -1,0 +1,28 @@
+name: slowrivercoffee
+favicon: null
+layout_spectrum: 0.9153671048115939
+typography_spectrum: 0.09598293714225292
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7312659751623869
+  lightness: 0.6839999405201524
+  saturation: 0.5495100021362305
+  rhythmicContrast: 0.6643758742138743
+purpose: []
