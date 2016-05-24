@@ -1,29 +1,18 @@
-name: slowrivercoffee
-favicon: null
-layout_spectrum: 0.49729
-typography_spectrum: 0.75
-title: Slow River Coffee
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7312659751623869
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0.25
+    - '#D2D2D0'
+    - '#DFE0E2'
+    - '#171719'
+    - '#B2B2AA'
+    - '#252527'
+  brandStrength: 0.731265
+  lightness: 0.911318
+  rhythmicContrast: 0.016046
+  saturation: 0.716216
+cta: {}
+layout_spectrum: 0.822635
+name: slowrivercoffee
+opengraph: {}
 purpose: []
+typography_spectrum: 0.75
